@@ -88,6 +88,7 @@ Examples of IDEs:
 Eclipse
 Visual Studio
 Importance of Version Control Systems (VCS)
+
 VCS are tools that manage changes to code, documents, or other digital content over time. They enable:
 Collaborative development by tracking changes and resolving conflicts
 Version history, branching, and merging for flexible development
